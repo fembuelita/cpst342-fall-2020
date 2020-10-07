@@ -1,1 +1,0 @@
-This assignment has been cancelled due to class feedback of there being too much work. Please use the time to work on unit 3 and your final project. 

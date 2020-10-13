@@ -14,8 +14,8 @@
 5. If you are not coming from CPST242 and are not familiar with HTML/CSS, you should read the first 5 chapters prior to the first week of class
 
 **Meeting Times:**  Wednesdays 6p-9p.  
-**Meeting Location:** Online through Zoom. See Sakai for the link.  
-**Support/Office Hours:** Drop-in for help on homework, course readings, or anything at all. This is the prime time to ask me questions. I'm online and available for you Monday 6p-7p via Zoom. I am also available by appointment on a limited basis.
+**Meeting Location:** Online through Zoom. See Sakai for the link or directly access at <https://luc.zoom.us/j/89438122124> 
+**Support/Office Hours:** Drop-in for help on homework, course readings, or anything at all. This is the prime time to ask me questions. I'm online and available for you Monday 6p-7p via Zoom using the same link as the primary course sessions. I am also available by appointment on a limited basis.
 **Online Help (Piazza):** 
 This term we will be using Piazza for class discussion. The system is highly catered to getting you help fast and efficiently from classmates, the TA, and myself. Rather than emailing questions to the teaching staff, I encourage you to post your questions on Piazza. If you have any problems or feedback for the developers, email team@piazza.com.
 

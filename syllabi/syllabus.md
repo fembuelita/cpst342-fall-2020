@@ -120,6 +120,11 @@ Consult Sakai calendar and ZyBooks for detailed breakdowns and due dates. A gene
 #### Unit 1
 
 * Class Dates: 10/21, 10/28
+* Learning Objectives:
+    * Learn key web development terminology
+    * Refresh or acquire basic understanding of HTML/CSS
+    * Learn the fundamentals of git as a version control system (VCS)
+    * Learn how to develop web applications locally and deploy to Pantheon
 * Topics Covered: 
     * Web Development Terminology
     * Brief HTML/CSS Review
@@ -152,6 +157,13 @@ Consult Sakai calendar and ZyBooks for detailed breakdowns and due dates. A gene
 #### Unit 2
 
 * Class Dates: 11/4, 11/11
+* Learning Objectives:
+    * Develop general understanding of responsive web design and learn how to implement this using Bootstrap 4
+    * Learn basic server side programming with PHP
+    * Develop general understanding of relational, SQL databases
+    * Learn how to use WordPress (WP) as a Content Management System (CMS)
+    * Learn how to interact with the SQL database powering WP using WP_Query and WPDB
+    * Develop general understanding of different types of web hosting 
 * Topics Covered: 
     * Responsive Design with Bootstrap 4
     * PHP
@@ -200,13 +212,20 @@ Consult Sakai calendar and ZyBooks for detailed breakdowns and due dates. A gene
 #### Unit 3
 
 * Class Dates: 11/13, 11/18, 12/2
+* Learning Objectives:
+    * Become fluent in beginner level JavaScript
+    * Learn about the DOM and its relationship with a web application
+    * Learn how to use JavaScript asynchronously to interact with web APIs
+    * Develop a general understanding of ES5 vs ES6+
+    * Develop a general understanding of JavaScript web frameworks
+    * Learn how to extend WordPress's block builder (Gutenberg)
 * Topics Covered:
     * Introduction to JavaScript
     * JavaScript and the DOM
     * AJAX, Promises, and JSON
     * ES6
     * Node, NPM, NPX, and NVM as CLI tools
-    * Brief introduction to server-side JavaScript (Node)
+    * (If time supports) Brief introduction to server-side JavaScript (Node)
     * Brief introduction to JS(X) Frameworks like React & Vue
     * Introduction to creating JSX Gutenberg blocks for WordPress
 * Textbook Readings: Chapters 10-13

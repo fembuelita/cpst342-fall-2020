@@ -271,7 +271,7 @@ The grades are weighted as:
         </tr>
         <tr>
             <td>ZyBooks Labs</td>
-            <td>20%</td>
+            <td>25%</td>
         </tr>
         <tr>
             <td>Assignments</td>
@@ -279,7 +279,7 @@ The grades are weighted as:
         </tr>      
         <tr>
             <td>Final Project & Presentation</td>
-            <td>25%</td>
+            <td>20%</td>
         </tr>       
     </tbody>
 </table>

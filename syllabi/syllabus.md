@@ -109,7 +109,7 @@ Interactive labs will be held-in class (through Zoom). Labs are counted towards 
 
 ### Group Work
 
-All course assignments, unless specifically stated otherwise, may be done with another person ("Pair Programming"). This includes challenge activities & readings. Students are encouraged to work with a partner, but may choose to work alone if they prefer.
+All course assignments, unless specifically stated otherwise, may be done with another person ("Pair Programming"). Students are encouraged to work with a partner, but may choose to work alone if they prefer.
 
 **Each student must complete readings/challenges via ZyBooks, but only one student per team must submit an assignment via Sakai. A team assignment MUST have all student names BEFORE submission for team members to receive credit.**
  

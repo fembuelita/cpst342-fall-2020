@@ -1,0 +1,29 @@
+name: <siteName>
+recipe: pantheon
+config:
+  framework: wordpress
+  site: <siteName>
+  id: <siteID>
+  xdebug: true
+services:
+  appserver:
+    overrides:
+      environment:
+        PHP_IDE_CONFIG: serverName=<siteName>.lndo.site
+  pma:
+    type: phpmyadmin
+    hosts:
+      - database
+proxy:
+  pma:
+    - pma.<siteName>.lndo.site
+
+tooling:
+  composer:
+    # Run the `lando composer` command against the appserver from the services section above
+    service: appserver
+
+    # Give a nice description to describe what this does.
+    # If omitted this will default to "Run COMMAND commands" where COMMAND is
+    # composer in this case
+    description: Run composer commands

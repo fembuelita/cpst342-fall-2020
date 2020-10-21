@@ -134,13 +134,15 @@ Consult Sakai calendar and ZyBooks for detailed breakdowns and due dates. A gene
     * Pantheon.io Hosting
 * Textbook Readings: Chapters 1-6 (You should read 1-5 before class starts if you haven't used HTML/CSS before)
 * Languages Learned: HTML/CSS
-* Tools Learned: Git, Chrome Web Inspector, SFTP, Docker/Lando or XAMP
+* Tools Learned: Git, Chrome Web Inspector, SFTP, (Lando/Docker, or Bitnami/XAMPP)
 * Frameworks Learned: Bootstrap, WordPress
 * Assignments:
     * Setting up your local development environment 
     * Deploying a static web page with Git (or SFTP) and Pantheon
 * PaaS Learned: Pantheon
 * Useful Links:
+    * HTML Links:
+        * <https://www.tutorialrepublic.com/html-reference/html5-tags.php>
     * Git Links:
         * <https://git-scm.com/book/en/v2>
         * <https://gitforwindows.org/>
@@ -151,6 +153,9 @@ Consult Sakai calendar and ZyBooks for detailed breakdowns and due dates. A gene
     * Lando Development:
         * <https://lando.dev/>
         * <https://docs.lando.dev/config/pantheon.html#pantheon>
+        * <https://pantheon.io/docs/guides/lando-wordpress>
+    * Bitnami WordPress Development
+        * <https://bitnami.com/stack/wordpress>
     * XAMPP Development 
         * <https://www.apachefriends.org/download.html>
 

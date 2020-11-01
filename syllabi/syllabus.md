@@ -129,12 +129,10 @@ Consult Sakai calendar and ZyBooks for detailed breakdowns and due dates. A gene
     * Web Development Terminology
     * Brief HTML/CSS Review
     * Introduction to Git
-    * Local Development for Web Applications
-    * Introduction to Content Management Systems (CMS)
-    * Pantheon.io Hosting
+    * Responsive Design with Bootstrap 4
 * Textbook Readings: Chapters 1-6 (You should read 1-5 before class starts if you haven't used HTML/CSS before)
 * Languages Learned: HTML/CSS
-* Tools Learned: Git, Chrome Web Inspector, SFTP, (Lando/Docker, or Bitnami/XAMPP)
+* Tools Learned: Git, Chrome Web Inspector, SFTP
 * Frameworks Learned: Bootstrap, WordPress
 * Assignments:
     * Setting up your local development environment 
@@ -150,14 +148,16 @@ Consult Sakai calendar and ZyBooks for detailed breakdowns and due dates. A gene
         * <https://pantheon.io/docs/>
         * <https://pantheon.io/docs/ssh-keys>
         * <https://pantheon.io/localdev>
-    * Lando Development:
-        * <https://lando.dev/>
-        * <https://docs.lando.dev/config/pantheon.html#pantheon>
-        * <https://pantheon.io/docs/guides/lando-wordpress>
-    * Bitnami WordPress Development
-        * <https://bitnami.com/stack/wordpress>
-    * XAMPP Development 
-        * <https://www.apachefriends.org/download.html>
+    * Bootstrap Links:
+        * <https://getbootstrap.com>
+        * <https://www.bootstrapdash.com/bootstrap-4-tutorial/introduction/>
+        * <https://medium.com/@carolskelly/bootstrap-4-the-tutorial-6cde836af7db>
+    * SASS Compilation Links
+       * <https://sass-lang.com/>
+       * <https://nodejs.org/en/>
+       * <https://bitsofco.de/a-look-at-css-resets-in-2018/>
+       * <https://www.jetbrains.com/help/webstorm/transpiling-sass-less-and-scss-to-css.html>
+
 
 #### Unit 2
 
@@ -170,7 +170,8 @@ Consult Sakai calendar and ZyBooks for detailed breakdowns and due dates. A gene
     * Learn how to interact with the SQL database powering WP using WP_Query and WPDB
     * Develop general understanding of different types of web hosting 
 * Topics Covered: 
-    * Responsive Design with Bootstrap 4
+    * Local Development for Web Applications
+    * Introduction to Content Management Systems (CMS)
     * PHP
     * Introduction to MySQL & MariaDB Databases
     * Introduction WordPress & Gutenberg
@@ -185,12 +186,17 @@ Consult Sakai calendar and ZyBooks for detailed breakdowns and due dates. A gene
         * <https://developer.wordpress.org/themes/functionality/>
 * Languages Learned: PHP, SQL (mostly via WP Query and WPDB)
 * Frameworks Learned: WordPress
+* Tools Learned: Lando/Docker, or Bitnami/XAMPP
 * Assignment: Building a custom WordPress theme using Bootstrap 4
 * Useful Links:
-    * Bootstrap Links:
-        * <https://getbootstrap.com>
-        * <https://www.bootstrapdash.com/bootstrap-4-tutorial/introduction/>
-        * <https://medium.com/@carolskelly/bootstrap-4-the-tutorial-6cde836af7db>
+    * Lando Development:
+        * <https://lando.dev/>
+        * <https://docs.lando.dev/config/pantheon.html#pantheon>
+        * <https://pantheon.io/docs/guides/lando-wordpress>
+    * Bitnami WordPress Development
+        * <https://bitnami.com/stack/wordpress>
+    * XAMPP Development 
+        * <https://www.apachefriends.org/download.html>
     * PHP Links
         * <https://www.php-fig.org/psr/>
         * <https://www.php.net/docs.php>
@@ -208,11 +214,6 @@ Consult Sakai calendar and ZyBooks for detailed breakdowns and due dates. A gene
         * <https://aws.amazon.com>
         * <https://digitalocean.com>
         * <https://liquidweb.com>
-    * SASS Compilation Links
-       * <https://sass-lang.com/>
-       * <https://nodejs.org/en/>
-       * <https://bitsofco.de/a-look-at-css-resets-in-2018/>
-       * <https://www.jetbrains.com/help/webstorm/transpiling-sass-less-and-scss-to-css.html>
     
 #### Unit 3
 

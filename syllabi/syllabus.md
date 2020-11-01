@@ -124,7 +124,7 @@ Consult Sakai calendar and ZyBooks for detailed breakdowns and due dates. A gene
     * Learn key web development terminology
     * Refresh or acquire basic understanding of HTML/CSS
     * Learn the fundamentals of git as a version control system (VCS)
-    * Learn how to develop web applications locally and deploy to Pantheon
+    * Develop general understanding of responsive web design and learn how to implement this using Bootstrap 4
 * Topics Covered: 
     * Web Development Terminology
     * Brief HTML/CSS Review
@@ -163,7 +163,7 @@ Consult Sakai calendar and ZyBooks for detailed breakdowns and due dates. A gene
 
 * Class Dates: 11/4, 11/11
 * Learning Objectives:
-    * Develop general understanding of responsive web design and learn how to implement this using Bootstrap 4
+    * Learn how to develop web applications locally and deploy to Pantheon
     * Learn basic server side programming with PHP
     * Develop general understanding of relational, SQL databases
     * Learn how to use WordPress (WP) as a Content Management System (CMS)
@@ -187,7 +187,7 @@ Consult Sakai calendar and ZyBooks for detailed breakdowns and due dates. A gene
 * Languages Learned: PHP, SQL (mostly via WP Query and WPDB)
 * Frameworks Learned: WordPress
 * Tools Learned: Lando/Docker, or Bitnami/XAMPP
-* Assignment: Building a custom WordPress theme using Bootstrap 4
+* Assignment: Customizing a WordPress theme using Bootstrap 4
 * Useful Links:
     * Lando Development:
         * <https://lando.dev/>

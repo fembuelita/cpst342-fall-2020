@@ -99,7 +99,7 @@ const add5 = y => y+5;
 summation(5, 3); // 8
 
 
-const multiply7 = x => x * 7;
+const multiply7 = x => x *= 7;
 const myFinalNumber = (x, y) => summation(
   add5(x), // 8
   summation2(
@@ -108,6 +108,8 @@ const myFinalNumber = (x, y) => summation(
   ) // 8
 ); // 16
 
-const calculateMyFinalNumber = () => (x, y) => myFinalNumber(x, y);
-const theResultingFunction = calculateMyFinalNumber()(3, 1);
+const calculateMyFinalNumber = (x, y) => {
+ return myFinalNumber(x, y);
+}
+const theResultingFunction = calculateMyFinalNumber(3, 1)();
 

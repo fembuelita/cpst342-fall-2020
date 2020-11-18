@@ -25,7 +25,7 @@ Submit the team member names (up to 2) who worked on this project together and t
 
 ## Grading and Rubric
 
-This assignment is due at the end of Unit 1. It is worth 100 points.
+This assignment is due at the end of Unit 2. It is worth 100 points.
 
 * 100/100 - Website is available on Pantheon on the `test` environment and meets all requirements.
 * 90/100 - Website is available on Pantheon (either `dev` or `test`) and meets nearly all requirements.

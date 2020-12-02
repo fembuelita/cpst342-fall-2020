@@ -24,7 +24,7 @@ Do not try to discuss/cover _all_ of your source code. There will not be time fo
 100 points available. If no project is submitted, the student will not pass this course.
 
 * 10pts - Proposal
-* 15pts - Peer review/questions (5pts per question)
+* 15pts - Peer review/questions (5pts per question). You must be in attendance to score these points
 * 25pts - Presentation within time limits and the application worked in the demo
 * 25pts - Is the application available online and does it work?
 * 15pts - Difficulty level (5 = simple, 10 = average, 15 = hard, 20 = very difficult)

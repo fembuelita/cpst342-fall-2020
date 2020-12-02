@@ -9,9 +9,26 @@ For your final project, you will do one of the following items:
 
 Details will provided more in-class on each of these, but they are all "real life" examples you would have to build if you are working as a developer on a WordPress website. 
 
+## Presentation
+
+You will be presenting your final project during week 8. Your presentation should be between 5-8 minutes. If you exceed 10 minutes you will be cut off to ensure we have time for all students to present. Your presentation should cover:
+
+1. Working demo of the application (this part may be pre-recorded *and* shown as part of your presentation, if you wish)
+1. Highlights of source code or relevant features. These highlights should be things that were particularly helpful, interesting, and/or challenging for your team.
+1. Anything else you want to discuss related to the project.
+
+Do not try to discuss/cover _all_ of your source code. There will not be time for this. If you are an audience member, you will be expected to ask at least _three_ open-ended (not a yes/no) questions to another group. I will be recording these notes and this will impact your grade (each question is 'peer review').
+
 ## Rubric
 
-Rubric will be made available later in the semester
+100 points available. If no project is submitted, the student will not pass this course.
+
+* 10pts - Proposal
+* 15pts - Peer review/questions (5pts per question)
+* 25pts - Presentation within time limits and the application worked in the demo
+* 25pts - Is the application available online and does it work?
+* 15pts - Difficulty level (5 = simple, 10 = average, 15 = hard, 20 = very difficult)
+* 10pts - Source code quality -- or if no programming -- quality of application and aesthetics
 
 ## Proposal
 
